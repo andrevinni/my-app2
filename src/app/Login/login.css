@@ -1,0 +1,40 @@
+.form-container {
+    height: 100vh;
+}
+
+.form-signin {
+    width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.login-links a {
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.vh100 section {
+    background-color: #508bfc;
+}
+
+div.card {
+    border-radius: 1rem;
+}
+
+#root {
+    width: 100vw;
+    height: 100vh;
+    padding-top: 0px;
+}
